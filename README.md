@@ -1,0 +1,2 @@
+# Interactive-Annual-Sale-Report-creation-of-a-Store-using-Microsoft-Excel-
+The annual sales report is created using Microsoft Excel with a detailed overview of a store's sales performance for a year. It includes columns for customer id, gender, age, date, etc. Its analysis like comparing sales by product category, sales of men vs women, etc. The report can be visually enhanced with formatting slicer, charts, and graphs.
